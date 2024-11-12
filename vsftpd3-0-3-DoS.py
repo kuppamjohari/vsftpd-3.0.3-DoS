@@ -22,7 +22,7 @@ banner = """
 |By XYN/DUMP/NSKB3|
 |_________________|
 |                 |
-|_modifed version_|
+|___mod version___|
 |---kuppamjohari--|
 |_________________|
 |_|_|_|_____|_|_|_|
