@@ -42,7 +42,7 @@ python3 vsftpd303-dos.py x.x.x.x 21 44
 |By XYN/DUMP/NSKB3|
 |_________________|
 |                 |
-|_modifed version_|
+|___mod version___|
 |---kuppamjohari--|
 |_________________|
 |_|_|_|_____|_|_|_|
